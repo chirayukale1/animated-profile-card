@@ -1,7 +1,7 @@
-echo "# animated-profile-card" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/chirayukale1/animated-profile-card.git
-git push -u origin main
+# Animated Profile Card
+
+This is a simple animated profile card using HTML and CSS.
+
+
+## Live Demo
+[Click here](https://chirayukale1.github.io/animated-profile-card/)
